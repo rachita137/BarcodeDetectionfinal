@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarcodeDetectionfinal</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="process">Process</string>
+    <string name="aweson">QR CODE SCANNER</string>
+</resources>
+
